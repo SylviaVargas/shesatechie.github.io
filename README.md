@@ -1,2 +1,2 @@
-# sheatechie.github.io
+# shesatechie.github.io
 Workspace for She's A Techie
